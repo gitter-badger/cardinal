@@ -1,4 +1,5 @@
 # Cardinal - 2.4.4
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/evan70/cardinal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Cardinal is a small “[mobile first](http://cbrac.co/116bQqk)” CSS framework for front-end developers who build responsive web applications.
 
